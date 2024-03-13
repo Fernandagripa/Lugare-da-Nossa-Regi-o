@@ -1,0 +1,46 @@
+
+.navbar-custom {
+    background: linear-gradient(to bottom, #2bc2c7, #06686b);
+    
+}
+
+.dropdown {
+    margin-left: auto;
+}
+
+.custom-button {
+    background-color: black;
+    color: white;
+}
+.custom-button:hover {
+    background-color: black;
+    color: rgb(96, 241, 252);
+}
+
+.dropdown-menu {
+    background: linear-gradient(to bottom, #2bc2c7, #06686b);
+    width: 150px;
+}
+
+.dropdown-item:hover {
+    background: transparent;
+}
+
+.icon {
+    width: 25px;
+    height: 25px;
+    margin-left: 20px;
+}
+
+.linkMenu {
+    color: black;
+}
+
+.list {
+    height: 20px;
+    width: 20px;
+}
+
+body {
+    background:Black
+}
